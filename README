@@ -1,0 +1,20 @@
+# HTTP, Banco de Dados e CRUD
+
+Projeto de estudo desenvolvido com FastAPI e SQLite.
+
+## Funcionalidades
+
+- Criar usuários
+- Listar usuários
+- Atualizar usuários
+- Deletar usuários
+
+## Tecnologias
+
+- Python
+- FastAPI
+- SQLite
+
+## Executar
+
+uvicorn main:app --reload
